@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GRANDZ21
+- 👋 Hi, I’m GRANDZ
 - 👀 I’m interested in github API
 - 🌱 I’m currently learning Sentinel API for developing a remote sensing plateform
 - 💞️ I’m looking to collaborate on Sentinel API and tools
